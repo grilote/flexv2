@@ -1,6 +1,6 @@
 /**
  * Service Worker
- * @author Wellington R. Cruz
+ * @author Luiz Fernando
  */
  
 // Instalação (cache "armazenamento local")
